@@ -5,7 +5,7 @@ categories: [misc]
 tags: []     # TAG names should always be lowercase
 ---
 
-### **Are we living in a simulation?**
+## **Are we living in a simulation?**
 
 With the evident success of computer technologies 
 this question raises more and more frequently. 
@@ -18,7 +18,7 @@ While there is probably no way to disprove this hypothesis
 I argue that believing in such thing has a negative psychological effect 
 on an individual and a society in general.
 
-### **What do we mean by simulation?**
+## **What do we mean by simulation?**
 
 In a process of simulation we are trying to model and imitate some real phenomena with the purpose of predicting or imposing future outcomes. An imitation is generally much cheaper to perform than a real process. So we can try a lot of different scenarios to find the best strategy before implementing it in reality.
 
@@ -33,7 +33,7 @@ But observe that in any case simulation is still part of reality. Every complete
 So, a simulation is always real, even if it predates the *real action*. It's just way less important. 
 
 
-### **Why would we prefer to think that we live in a less important world?** 
+## **Why would we prefer to think that we live in a less important world?** 
 
 The simple answer is — people tend to downgrade what they see if they don't like that. An irresponsible and childish person became a president of a powerful country? A girl has to tell world leaders what to do with the Earth's climate? No, this doesn't imply that we live in some kind of game, or a part of a show. There are explanations and they are real. We just don't know or understand them. 
 
@@ -41,7 +41,7 @@ Another reason could be that the world became so big and interconnected that we 
 
 Finally, downgrading reality is a psychological way to flee from our responsibilities in life. Why bother to do something if everything is not important? 
 
-### **The effects of such belief**
+## **The effects of such belief**
 
 Believing that the world is just a simulation implies that we, our feelings and our actions are not that important either. 
 
@@ -51,7 +51,7 @@ Now imagine that you live in a society that thinks the world around is not that 
 You could be an NPC (non-player character) in this game, after all. Just an AI script that is written by a programmer from the *true world*. Would you like to live in such community? 
 
 
-### **Conclusions**
+## **Conclusions**
 
 Do not downgrade *the reality* of what you see simply because you don't like it, don't understand or don't control it. All your actions, your feelings, your views and your life in general are *matter*, as well as the life of others. 
  
