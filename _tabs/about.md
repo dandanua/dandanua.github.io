@@ -11,4 +11,13 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+I'm a mathematician that study quantum information theory.  
+But I'm also interested in various aspects of life and existence. 
+
+My stackexchange [profile](https://quantumcomputing.stackexchange.com/users/5870/danylo-y).
+
+[Lectures](https://www.youtube.com/watch?v=aikrnsAPr5Y&list=PLxOa-Qg5r766vbY__MXMheyY1ERl-03K9) on quantum information (in ukrainian).
+
+### Contact me
+
+[dandan.ua@gmail.com](mailto:dandan.ua@gmail.com)
