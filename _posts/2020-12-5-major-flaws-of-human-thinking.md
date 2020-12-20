@@ -78,3 +78,7 @@ This is hard stuff even for scientists. Because you have to exclude any possible
 ## __Final words__
 
 There are a lot of other flaws, if you want to learn more you can start [here](https://en.wikipedia.org/wiki/Cognitive_bias) and [here](https://en.wikipedia.org/wiki/Cognitive_distortion). But those described above I find the most impactful. I feel them myself and meet them all the time. 
+
+---
+
+_[Discussion](https://news.ycombinator.com/item?id=25315667) on HackerNews._
