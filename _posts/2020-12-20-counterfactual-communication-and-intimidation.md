@@ -39,7 +39,7 @@ The problem with this counterfactual bullying is that a victim can't really be s
 
 The wording _counterfactual_ is justifiable in those cases simply because a court probably won't consider double meaning demands, threats, and insults as convincing evidence, even though they have a real impact. Note that the second offensive meaning can be very personal, so others won't understand its subjective sense. 
 
-A very illustrative example of this we can see in Trump's impeachment case. It was alleged that Trump demanded an investigation of his political opponent from Ukrainian president Zelensky. At the same time, the military aid to Ukraine has been withheld. This is clearly a message with a double meaning. Either withholding isn't related to that demand or it's a bargaining chip. I bet that for everyone who lived in a corrupt state, the second meaning looks way more probable. But you can't prove this for sure. 
+A very illustrative example of this we can see in Trump's impeachment case. It was alleged that Trump demanded an investigation of his political opponent from Ukrainian president Zelensky. At the same time, the military aid to Ukraine has been withheld. This is clearly a message with a double meaning. Either withholding isn't related to that demand or it's a bargaining chip. I bet that for everyone who lived in a corrupt country, the second meaning looks way more probable. But you can't prove this for sure. 
 
 ## How to react?
 
@@ -53,7 +53,7 @@ I find the phrase _"Reputation speaks for itself"_ to be quite on point. It spea
 
 In a civilized world people are encouraged to value and abide  honesty, politeness, trustworthiness, and other positive traits. 
 
-But in a less civilized or degrading society building a negative reputation can have its own advantages. A person with a negative reputation doesn't even have to state direct threats or use double meanings. It's less likely that you will argue with an impulsive and shouty person. In the worst case, people build a reputation of being "half-crazy", implying that they do not fully control themselves. In this way, their threats circumvent the legal punishment system, which is supposed to prevent conscious people from doing bad things. Because, you know, what's the point of punishment if they already did harm to you?  
+But in a less civilized or degrading society, building a negative reputation can have its own advantages. A person with a negative reputation doesn't even have to state direct threats or use double meanings. It's less likely that you will argue with an impulsive and shouty person. In the worst case, people build a reputation of being "half-crazy", implying that they do not fully control themselves. In this way, their threats circumvent the legal punishment system, which is supposed to prevent conscious people from doing bad things. Because, you know, what's the point of punishment if they've already did harm to you?  
 
 Realizing its advantages, some people build a fake negative reputation. They pretend they did break the laws, did some bad actions, or have bonds with evil spirits. But don't get fooled — it's still real intimidation and should be accountable. 
 
