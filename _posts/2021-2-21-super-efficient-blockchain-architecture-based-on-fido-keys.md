@@ -51,7 +51,7 @@ In particular, look at this diagram
 
 It is supposed that a Relying Party (server) starts second-factor authentification by sending a _challenge_ to a client. But blockchain network has no servers. Instead of a challenge, Clara uses the hash of her transaction, where _app_id_ is just a name of the blockchain network and _handle_ is Clara's personal public key. Then the U2F device will update the counter and return the signed transaction with the attached counter. This is exactly what we need! Clara then sends this information along with the actual transaction and her own signature to the network. 
 
-To ensure that Clara can't simulate the device, U2F protocol additionally includes the attestation certificate of the device manufacturer. _EDIT: it looks like U2F attestation is not really safe against simulations. The device needs to have the manufacturer root private key and use it as a third signature. In this way the simulation is impossible without knowing the root private key._
+To ensure that Clara can't simulate the device, U2F protocol additionally includes the attestation certificate of the device manufacturer, as explained [here](https://fidoalliance.org/fido-technotes-the-truth-about-attestation/). 
 
 ## 4. Typical usage scenario
 
@@ -79,3 +79,7 @@ As for this blockchain efficiency, it's certainly unreachable for ordinary block
 ## 7. Final Words
 
 This is, of course, only a high-level overview of blockchain architecture. A lot of details are skipped. But I hope it can be seen that this architecture is a real solution to a lot of blockchain problems. 
+
+---
+
+_[Discussion](https://news.ycombinator.com/item?id=26214175) on HackerNews._
